@@ -1,0 +1,44 @@
+.nav-light {
+    background-color: #6ba3ba;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 4rem;
+}
+
+.nav-dark {
+    background-color: #5c6330;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 4rem;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-size: 17px;
+    color: white;
+
+}
+
+button {
+    background: none;
+    border: none;
+}
+
+svg {
+    cursor: pointer;
+  
+}
+
+hr {
+    color: black;
+    border: 0.5px solid black;
+}

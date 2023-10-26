@@ -1,0 +1,23 @@
+.invisibleContainer {
+    height: 14vh;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    padding: 15px;
+}
+
+span {
+    color: black;
+}
+
+.li {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);
+    padding: 16px;
+    max-width: 250px;
+    text-align: center;
+    color: black;
+}

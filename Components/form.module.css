@@ -1,0 +1,36 @@
+.father {
+    max-width: 35vw;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+    border: 0.5px solid black;
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.input {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    padding: 15px;
+    color: black;
+    text-align: center;
+    font-family: 'Perfect DOS VGA 437', sans-serif;
+    font-family: 'Perfect DOS VGA 437 Win', sans-serif;
+    font-size: 16px;
+}
+
+.spanError {
+    color: red;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.buttonSubmit {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #8aa098;
+}
